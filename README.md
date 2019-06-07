@@ -1,7 +1,8 @@
 # GTSRB
 In this project Convolutional Neural Networks were implemented on the GTSRB data to build a traffic sign recognition model. The data is available at https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
 
-This repository contains:
+This repository contains: 
+
 ● The Jupyter Notebook for building and analysing the models 
 
 ● The Python Code for building and analysing the models 
